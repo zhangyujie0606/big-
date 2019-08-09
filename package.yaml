@@ -1,10 +1,8 @@
 name: big组件
-description: testlll
+description: testllla
 keywords:
-  - websocket
-  - network
   - 张玉洁的标签
-license: MIT                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
+license: MIT123                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 homepage: https://www.taobao.com/
 source_file:
   - src/*.c
