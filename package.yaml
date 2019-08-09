@@ -1,8 +1,9 @@
-name: websocket
+name: big组件
 description: 一种轻量级的 websocket 的客户端。
 keywords:
   - websocket
   - network
+  - 张玉洁的标签
 license: MIT                                   # GPLv2，LGPLv2.1，MIT，Apache license v2.0，BSD
 
 source_file:
