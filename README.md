@@ -1,7 +1,7 @@
 
 # websocket - Tiny, cross platform websocket client C library.
 
-修改
+修改12345aaaaaaaaaaaaa
   if (error) { 
     printf("\nSocket disconnect with code, error: %i, %s", rws_error_get_code(error), rws_error_get_description(error)); 
   }
